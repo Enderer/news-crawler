@@ -1,0 +1,17 @@
+{
+  "name": "news-crawler",
+  "version": "1.0.0",
+  "description": "News crawler for Mike",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "html-to-text": "^3.2.0",
+    "natural": "^0.5.0",
+    "node-aho-corasick": "0.0.2",
+    "sentiment": "^4.0.0",
+    "simplecrawler": "^1.1.1"
+  }
+}

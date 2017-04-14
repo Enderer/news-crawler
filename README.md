@@ -1,2 +1,6 @@
-# news-crawler
-News Crawler
+# News Crawler
+
+```
+npm install
+node index
+```
